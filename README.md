@@ -14,9 +14,7 @@ Creare una funzione per capire se la parola inserita è palindroma (non usare fu
 
 
 ### Logica del programma:
-- Creo una funzione
-- Creo un array []
-- Per ogni lettera delle parola inserita dal utente le inserisco in un array
+- Faccio un ciclo che stampi la parolaUtente lettera per lettera
 - Confronto la lettera iniziale con quella finale 
 
       Se lettera iniziale === lettera finale && lunghezza array === parolaUtente 
